@@ -1,0 +1,96 @@
+/*IDS*/
+
+#title
+{background-color: #131212;
+ font-family: "Montserrat-Bold";
+}
+
+#cta {background-color: #131212;
+color: #fff;
+padding: 3%}
+
+#bottom-1{
+background-color: #131212;
+;
+padding :20px;
+}
+
+#features{padding: 7% 15% ;
+margin-top: 50px}
+
+#footer{padding: 20px;}
+
+
+/*HTML ELEMENT SELECTORS*/
+
+h1{
+font-family: "Montserrat-White";
+font-size: 3rem
+line-height: 1.5;
+color: White ;
+padding-top: %;
+padding-bottom: 5%;
+}
+
+p {color: grey;}
+
+navbar-brand{font-family: "Montserrat-Black";}
+
+body {text-align: center;}
+h3 {font-family: "Montserrat-Bold";
+color: black;
+}
+
+/**CLASSES*/
+
+.heading-bottom{font-family: 'Bebas Neue';
+color: white;}
+
+.End {color: grey}
+
+.insta{color: red}
+
+.b{color: white;}
+
+.card-deck {text-align: center;
+display: inline-block;;}
+
+.card {display: inline-block;}
+
+.navbar {margin : 5% 0 5% 0;
+  }
+
+
+.container-fluid{padding : 3% 15%;}
+
+.navbar-collapse {margin-left:50% ;}
+
+.nav-item {margin-right: 20%}
+
+/* Title Picture */
+.responsive {width : 90% ;
+}
+
+
+.features-box {text-align:center;
+padding: 5%}
+
+.navlink{font-size: 1.2rem;
+font-family: "Montserrat-Light";}
+
+
+/* DOwnload Buttons */
+
+.downlaod-button{margin: 5% 3% 5% 0}
+
+.bath {height: 50%;
+width: 50%;
+padding: 5% 5%;}
+
+.sr-only{color: red}
+
+.button-2{background-color: white;
+border-radius: 10%;
+border:2px solid blue;
+}
+.button-2:hover{background-color: grey;}
